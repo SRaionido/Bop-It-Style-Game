@@ -4,3 +4,6 @@ This is the final project I and a teammate created for EE128 Actuation and Sensi
 
 ## Personal Contributions
 Within this project, I designed and implemented the main.c code for the FRDM K64F, as well as debugged the Arduino code for it to properly interface with the LCD screen and receive SPI messages from the FRDM board. Skills and serial communication protocols I used within this project are: finite state machine design, C/C++ coding, bit manipulation, GPIO input, analog to digital conversion (ADC), I2C, SPI, and UART.
+
+## Demo
+[Watch on YouTube here](https://youtu.be/vrvkLTBXIKc)
